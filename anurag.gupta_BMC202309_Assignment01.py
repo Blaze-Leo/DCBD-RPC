@@ -95,7 +95,6 @@ def verify_top_10(student_id, top_10):
 if __name__ == "__main__":
     
     install("requests")
-    install("tqdm")
     
     import requests
     import time
